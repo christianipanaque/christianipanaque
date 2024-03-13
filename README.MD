@@ -1,8 +1,8 @@
 # Hello, and Welcome to Christian's World 👋
 
-- Ex Senior Software Engineer (2009-2024) experienced in scaling large code bases using Nx Workspaces and Generators, Next.js Server Side Rendering, GraphQL Schemas and Types, Reusable React Components, prioritizing modularity and code reusability in large monorepos to avoid cross-team conflicts.
+- Ex Senior Software Engineer (2009-2024) experienced in scaling large code bases using; Nx Workspaces and Generators, Next.js Server Side Rendering, GraphQL Schemas and Types, Reusable React Components, prioritizing modularity and code reusability in large monorepos to avoid cross-team conflicts.
 
-- Ex Hardware Engineer (2009)
+- Ex Hardware Engineer (2006-2009)
 
 ## Career History
 
