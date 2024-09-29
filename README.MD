@@ -2,7 +2,7 @@
 
 - Senior Software Engineer experienced in scaling large code bases using; Nx Workspaces and Generators, Next.js Server Side Rendering, GraphQL Schemas and Types, Reusable React Components, prioritizing modularity and code reusability in large monorepos to avoid cross-team conflicts.
 
-- Hardware Engineer (2006-2009)
+- [LinkedIn Christian Ipanaque](https://www.linkedin.com/in/christianmartinipanaque/)
 
 ## Career History
 
